@@ -7,5 +7,5 @@ Drexel University - Physics, PhD
 Virginia Tech - Postdoctoral Associate
 
 ### Projects and Experiments
-CHANDLER
-PROSPECT
+- CHANDLER
+- PROSPECT
