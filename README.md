@@ -1,12 +1,11 @@
-# Data Scientist
+# Particle Physicist
 
 ### Education
-Physics, PhD
+Drexel University - Physics, PhD
 
 ### Work Experience
-Data Scientist @ Data Science Corporation
-- big impact project 1!
-- big impact project 2!
+Virginia Tech - Postdoctoral Associate
 
-### Projects
-Discovery
+### Projects and Experiments
+CHANDLER
+PROSPECT
